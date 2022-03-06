@@ -12,12 +12,13 @@
  My name is **Abrahan Maigua.** I’m have 19 years old.<br>
  I am a self-taught programming student, I like to learn new things.
 
-# tools
-
-- programming languages
+# technology stack
 - Python
 - JavaScript
-- tool
+- MySql
+- Sqlite
+
+# tool
 - Git
 - Heroku
 - Sublime Text
