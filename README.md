@@ -25,7 +25,6 @@
 - Django
 - kivy
 - sklearn
-- Req
 - beautifulsoup4
 - Requests
 
