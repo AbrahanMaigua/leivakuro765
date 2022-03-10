@@ -16,13 +16,26 @@
 - Python
 - JavaScript
 - MySql
+- PostgreSQL
 - Sqlite
+# library and framework 
+- pandas
+- numpy
+- OpenCV
+- Django
+- kivy
+- sklearn
+- Req
+- beautifulsoup4
+- Requests
 
 # tool
 - Git
 - Heroku
+- VsCode
 - Sublime Text
 - Google Colab
+- jupyter notebook
     
 # My Interest & Activities : 
 
