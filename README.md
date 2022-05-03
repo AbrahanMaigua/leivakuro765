@@ -25,10 +25,13 @@
 - Django
 - kivy
 - sklearn
+- tensorflow 
+- Keras
 - beautifulsoup4
 - Requests
 
 # tool
+- Vscode
 - Git
 - Heroku
 - VsCode
