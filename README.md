@@ -18,6 +18,7 @@
 - MySql
 - PostgreSQL
 - Sqlite
+- C, java. R
 # library and framework 
 - pandas
 - numpy
@@ -45,6 +46,7 @@
 - Movies
 - art and Design
 - Comics
+- game
 
 <!---
 
