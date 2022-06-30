@@ -3,7 +3,7 @@
 
 - 👋 I’m **@leivakuro765**
 - 👀 I’m interested in <i>Artificial intelligence</i>, python 
-- 🌱 I’m currently learningl Machine learning
+- 🌱 I’m currently learningl Deep learning
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 
@@ -11,43 +11,7 @@
  
  My name is **Abrahan Maigua.** I’m have 19 years old.<br>
  I am a self-taught programming student, I like to learn new things.
-
-# technology stack
-- Python
-- JavaScript
-- MySql
-- PostgreSQL
-- Sqlite
-- C, java. R
-# library and framework 
-- pandas
-- numpy
-- OpenCV
-- Django
-- kivy
-- sklearn
-- tensorflow 
-- Keras
-- beautifulsoup4
-- Requests
-
-# tool
-- Vscode
-- Git
-- Heroku
-- VsCode
-- Sublime Text
-- Google Colab
-- jupyter notebook
-    
-# My Interest & Activities : 
-
-- Programming
-- Movies
-- art and Design
-- Comics
-- game
-
+ currently studying **artificial intelligence** algorithms
 <!---
 
 <p align="center">
