@@ -9,7 +9,7 @@
 
 # About Me:
  
- My name is **Abrahan Maigua.** I’m have 19 years old.<br>
+ My name is **Abrahan Maigua.** I’m have 20 years old.<br>
  I am a self-taught programming student, I like to learn new things.
  currently studying **artificial intelligence** algorithms
 <!---
